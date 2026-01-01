@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Main Craft Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+Simply visit the [Main Craft Project](https://github.com/Pradeep-chauhan1507/code-comfort/blob/c8ceed713886b76cc3e7a6a387d56f2603583ae1/README.md) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
